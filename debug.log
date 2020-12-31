@@ -1,0 +1,3 @@
+[1230/202701.811:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Usuario\AppData\Local\Temp\scoped_dir13536_1065488989\Crashpad\attachments\12a2c2f4-98eb-4ad3-be8c-6c1053c4dc53: El sistema no puede encontrar la ruta especificada. (0x3)
+[1230/212108.751:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Usuario\AppData\Local\Temp\scoped_dir13744_40538540\Crashpad\attachments\9c83236c-88c0-457b-b845-add49e3ff89d: El sistema no puede encontrar la ruta especificada. (0x3)
+[1230/212122.101:ERROR:process_info.cc(359)] UncheckedAllocate
